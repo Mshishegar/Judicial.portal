@@ -6,4 +6,5 @@
    * The last follow-up was done on 8 February 2024
    * The request letter to expedite the issuance of the payment order by the Central Commercial and Investment Judicial Center of Germany is being prepared and sent to the General Department of the International Commercial Court in America
    * TBSOIHBC
+   * The message sent from the German Central Prosecutor's Office was received by the Secretariat of the International Digital Trade Court in America with the judicial tracking code 20241052916 on 12 February 2024.
    ##
