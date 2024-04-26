@@ -9,4 +9,9 @@
    * The message sent from the German Central Prosecutor's Office was received by the Secretariat of the International Digital Trade Court in America with the judicial tracking code 20241052916 on 12 February 2024.
    * The file is being prepared to receive the order of the director general and register the user's wallet.
    * Mr. Ika Motto, please register your two new Tether currency wallets in the portal so that the payment order operation can be completed by the judge.
+   * The legal case for the payment of your Tether currencies has been completed.
+   * Your wallets have been confirmed and registered at the following addresses and the currency is being prepared and transferred to your wallets by the Supreme Judicial Authority.
+   * The address of your wallets for Tether currency transfer:
+     1- TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p
+     2- TFR2nQg9jqb6KFJfaAEyohaqWg8MFPy18L
    ##
