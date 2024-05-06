@@ -18,4 +18,7 @@
      2- TFR2nQg9jqb6KFJfaAEyohaqWg8MFPy18L
 
       Loading CM trade
+     
+    * The payment operation of your Tethers has been completed and the delivery order has been issued by the chief judicial officer.
+Your Tether currency is ready for delivery
    ##
