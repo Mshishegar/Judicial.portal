@@ -21,4 +21,8 @@
      
     * The payment operation of your Tethers has been completed and the delivery order has been issued by the chief judicial officer.
 Your Tether currency is ready for delivery
+  * * The first wallet has been registered to the address below to pay the main amount of Tether currency, and it has been registered by the order enforcement department and the necessary measures are being taken.
+      
+      wallet add : TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p
+      
    ##
