@@ -24,5 +24,6 @@ Your Tether currency is ready for delivery
   * * The first wallet has been registered to the address below to pay the main amount of Tether currency, and it has been registered by the order enforcement department and the necessary measures are being taken.
       
       wallet add : TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p
-      
+  * The department of execution of the judicial order was warned to take immediate action regarding the completion of the legal cases of the execution of the order and the announcement of the payment time of the Tether currency.
+  * Mr. Jack Munk was appointed as the legal officer to follow up on the case of the execution of your judgment.    
    ##
