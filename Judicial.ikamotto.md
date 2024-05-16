@@ -25,5 +25,6 @@ Your Tether currency is ready for delivery
       
       wallet add : TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p
   * The department of execution of the judicial order was warned to take immediate action regarding the completion of the legal cases of the execution of the order and the announcement of the payment time of the Tether currency.
-  * Mr. Jack Munk was appointed as the legal officer to follow up on the case of the execution of your judgment.    
+  * Mr. Jack Munk was appointed as the legal officer to follow up on the case of the execution of your judgment.
+  * Please take immediate action to pay the amount of 350 dollars for the cost of the judicial receipt. 
    ##
