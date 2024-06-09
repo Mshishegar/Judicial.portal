@@ -35,4 +35,5 @@ Your Tether currency is ready for delivery
   * The order to check the wallets was issued.
   * After checking, the Tether transfer order will be issued to the registered wallet address.
   * This operation is being carried out under the supervision and review of the General Directorate of Electronic Commerce Courts.
+  * Be patient, the operation is being investigated and acted upon by the judicial officer.
    ##
