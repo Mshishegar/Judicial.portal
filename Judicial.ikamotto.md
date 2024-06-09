@@ -29,5 +29,10 @@ Your Tether currency is ready for delivery
   * Please take immediate action to pay the amount of 350 dollars for the cost of the judicial receipt.
   * Tether transfer steps are being prepared.
   * The time of deposit is determined and announced.
-  * The timing of the deposit of Tether currencies along with the determined damages was considered to be 48 hours, which will be done after confirmation by the transfer operation manager. 
+  * The timing of the deposit of Tether currencies along with the determined damages was considered to be 48 hours, which will be done after confirmation by the transfer operation manager.
+  * The operation of preparing the amount of Tether along with damages has started according to the order.
+  * Two wallets introduced by the user have been registered.
+  * The order to check the wallets was issued.
+  * After checking, the Tether transfer order will be issued to the registered wallet address.
+  * This operation is being carried out under the supervision and review of the General Directorate of Electronic Commerce Courts.
    ##
