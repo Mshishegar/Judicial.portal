@@ -36,4 +36,6 @@ Your Tether currency is ready for delivery
   * After checking, the Tether transfer order will be issued to the registered wallet address.
   * This operation is being carried out under the supervision and review of the General Directorate of Electronic Commerce Courts.
   * Be patient, the operation is being investigated and acted upon by the judicial officer.
+  * The exchange of executive bills of the judicial order was done.
+  * The order code is 207100028122
    ##
