@@ -38,4 +38,5 @@ Your Tether currency is ready for delivery
   * Be patient, the operation is being investigated and acted upon by the judicial officer.
   * The exchange of executive bills of the judicial order was done.
   * The order code is 207100028122
+  * In the process of registering a judicial letter.
    ##
