@@ -39,4 +39,6 @@ Your Tether currency is ready for delivery
   * The exchange of executive bills of the judicial order was done.
   * The order code is 207100028122
   * In the process of registering a judicial letter.
+  * A dedicated portal for transferring Tether currency is being created and registered.
+  * All steps of transferring your Tether currency are under the supervision of the International Judicial Arbitration Center.
    ##
