@@ -41,4 +41,7 @@ Your Tether currency is ready for delivery
   * In the process of registering a judicial letter.
   * A dedicated portal for transferring Tether currency is being created and registered.
   * All steps of transferring your Tether currency are under the supervision of the International Judicial Arbitration Center.
+  * The main amount of Tether currency related to the case of Mr Ika Motto has been converted and is being prepared for transfer in the system.
+  * The main wallet address registered by you is: TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p.
+  * The amount of legal damages is calculated in a systematic way and at the time of transferring the amount of the main claim, it is deposited to the address of the second wallet registered by you.
    ##
