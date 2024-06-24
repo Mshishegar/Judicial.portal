@@ -44,4 +44,8 @@ Your Tether currency is ready for delivery
   * The main amount of Tether currency related to the case of Mr Ika Motto has been converted and is being prepared for transfer in the system.
   * The main wallet address registered by you is: TKdPLkb8xvkofuESQSoegEnCaYBmR99h9p.
   * The amount of legal damages is calculated in a systematic way and at the time of transferring the amount of the main claim, it is deposited to the address of the second wallet registered by you.
+  * The list of the amount of Tether currency was registered in the name of Ika Motto.
+  * The port code for transferring Tether currency to your wallet is 202460711637.
+  * According to the operation order, the transfer code was registered to the wallet.
+The portal has been officially created and the link to visit the currency transfer operation will be sent to you live. 
    ##
