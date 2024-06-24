@@ -47,5 +47,7 @@ Your Tether currency is ready for delivery
   * The list of the amount of Tether currency was registered in the name of Ika Motto.
   * The port code for transferring Tether currency to your wallet is 202460711637.
   * According to the operation order, the transfer code was registered to the wallet.
-The portal has been officially created and the link to visit the currency transfer operation will be sent to you live. 
+The portal has been officially created and the link to visit the currency transfer operation will be sent to you live.
+* The manager of supervising the performance of the legal procedures is entering the project and closing it.
+* The transfer operation will be done by them.
    ##
