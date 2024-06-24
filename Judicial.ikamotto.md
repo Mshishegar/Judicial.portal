@@ -50,4 +50,7 @@ Your Tether currency is ready for delivery
 The portal has been officially created and the link to visit the currency transfer operation will be sent to you live.
 * The manager of supervising the performance of the legal procedures is entering the project and closing it.
 * The transfer operation will be done by them.
+* Wait for login and action.
+  ![ika motto sign vote2024593756124](https://github.com/Mshishegar/Judicial.portal/assets/170834754/b236d882-684c-495a-9918-cdc11a9367d9)
+
    ##
